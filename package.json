@@ -1,0 +1,14 @@
+{
+  "name": "SAPOCampusWebapp",
+  "version": "1.0.0",
+  "description": "SAPO Campus - webapp",
+  "author": "SAPO Campus",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-livereload" : "*",
+    "gulp-sass" : "*",
+    "gulp-selectors" : "*",
+    "gulp-uglify" : "*",
+    "st" : "*"
+  }
+}
